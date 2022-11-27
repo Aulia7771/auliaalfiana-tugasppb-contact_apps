@@ -1,16 +1,8 @@
-# contact_apps
+# Contact Apps
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Nama : Aulia Alfiana
+- Kelas : IK-2B
+- NIM : 3.34.21.1.05
+- Nomor : 05
+![Screenshot 2022-11-27 164826](https://user-images.githubusercontent.com/114818053/204129186-ee1e6fad-be74-4a82-b992-081b3a1f921b.jpg)
+![Screenshot 2022-11-27 164858](https://user-images.githubusercontent.com/114818053/204129192-f28e9220-1d7a-4ebb-93e5-c16d93053c21.jpg)
